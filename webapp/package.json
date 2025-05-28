@@ -22,7 +22,7 @@
   "dependencies": {
     "@mattermost/compass-icons": "0.1.48",
     "react-intl": "6.6.2",
-    "typescript": "5.6.3"
+    "typescript": "5.8.3"
   },
   "devDependencies": {
     "@babel/core": "7.22.0",
